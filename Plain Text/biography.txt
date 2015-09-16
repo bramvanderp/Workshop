@@ -1,0 +1,11 @@
+Menu:
+
+Home
+Biography
+Contact
+
+Biography
+
+I was born in Harderwijk, in 1989. I play rugby and like to eat anything apart from bananas.
+
+I learned to write HTML and CSS by following tutorials on the internet and later by simple trial and error. I still have to ask a lot of things to Danko.
